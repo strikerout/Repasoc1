@@ -1,1 +1,1 @@
-console.log("A los coñazos, toma te doy otro xD ")
+console.log("A los coñazos, toma te doy otro xD, A los coñazos o que? ")
